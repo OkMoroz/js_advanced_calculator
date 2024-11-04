@@ -3,8 +3,6 @@
 /**
  * @return {object}
  */
-function makeCalculator() {
-  // write code here
-}
+function makeCalculator() {}
 
 module.exports = makeCalculator;
